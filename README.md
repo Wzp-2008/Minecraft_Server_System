@@ -1,0 +1,2 @@
+# Minecraft_Server_System
+此项目为我的世界服务器创建+管理系统，是我的另一个项目：Minecraft server management system的Pro版，将会使用PyQt5制作GUI界面
